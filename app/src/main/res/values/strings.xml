@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Portraits</string>
+    <string name="ajax_title">Doggie Portrait</string>
+    <string name="australian_title">Australian Cowboy</string>
+    <string name="bruce_title">3d Head, Flat Background</string>
+    <string name="vanuatu_title">Drawing in Graphite</string>
+    <string name="whitman_title">Walt Whitman Painting</string>
+    <string name="ajax_detail">Done in colored pencil.</string>
+    <string name="australian_detail">Painting done in watercolor.</string>
+    <string name="bruce_detail">Head in graphite, background done with watercolor.</string>
+    <string name="vanuatu_detail">Graphite drawing. One of my favs.</string>
+    <string name="whitman_detail">Painting in egg tempera. Love egg tempera.</string>
+    <string name="artist_header">Artist: </string>
+    <string name="artist_name"> Cindy McKee</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="thanks">Thank you for looking!</string>
+    <string name="thanks_detail">These have been personal favorites of mine.</string>
+</resources>
